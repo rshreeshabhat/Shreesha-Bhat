@@ -16,15 +16,6 @@ I completed my Computer science engineering from Global Academy of Technology
   
 ### Badges
 
-<b>My GitHub Stats</b>
 
 <a href="https://leetcode.com/u/rshreeshabhat/"><img src="https://github.com/rshreeshabhat/Shreesha-Bhat/blob/main/download.png?raw=true" width ="150" height="250" /></a>
 
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Nagaprasad-ts/Nagaprasad-ts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagaprasad-ts&repo=Nagaprasad-ts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Nagaprasad-ts/simon-game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagaprasad-ts&repo=simon-game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Nagaprasad-ts/guess-the-number" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagaprasad-ts&repo=guess-the-number&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Nagaprasad-ts/dice-challenge" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nagaprasad-ts&repo=dice-challenge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
