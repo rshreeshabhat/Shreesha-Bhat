@@ -7,7 +7,7 @@ Web Developer
 I completed my Computer science engineering from Global Academy of Technology
 
 * ✉️  You can contact me at [rshreeshabhat@gmail.com](mailto:rshreeshabhat@gmail.com)
-* 🧠  I'm learning React Native, Data Structures & Algorithms
+* 🧠  I'm learning Golang React Native, Data Structures & Algorithms
 
 ### Socials
 
